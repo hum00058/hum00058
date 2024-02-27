@@ -44,7 +44,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/hum00058/hum00058/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/hum00058/hum00058/snake.yml" alt="Snake animation" />
 
 ###
 
