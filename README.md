@@ -44,10 +44,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/hum00058/hum00058/snake.yml" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/3qom0btklm2ae32egtxfbppxa">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=3qom0btklm2ae32egtxfbppxa&count=5" alt="Spotify recently played"  />
